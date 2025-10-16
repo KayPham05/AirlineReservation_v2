@@ -1,4 +1,4 @@
-﻿namespace AirlineReservation
+﻿namespace AirlineReservation.src
 {
     partial class Form1
     {
@@ -37,4 +37,3 @@
         #endregion
     }
 }
-

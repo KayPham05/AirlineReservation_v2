@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AirlineReservation
+namespace AirlineReservation.src
 {
     public partial class Form1 : Form
     {
